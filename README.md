@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hey there, I'm RJ Gonato
 
-<!--
-**rjaygonato/rjaygonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer**
+💡 Building real-world apps that solve real problems
+📍 Philippines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a passionate developer who enjoys turning ideas into **scalable, fast, and user-friendly applications**.
+I focus on performance ⚡, clean UI 🎨, and practical solutions that people can actually use.
+
+Currently building:
+
+* 🚑 Emergency-focused apps
+* 📍 Location-based features ("Nearby")
+* ⚡ Faster and optimized mobile experiences
+
+---
+
+## ⚙️ Tech Stack
+
+### 🎨 Frontend
+
+* ⚛️ React.js
+* 📱 React Native
+* 🌐 HTML • CSS • JavaScript
+
+### 🧠 Backend
+
+* 🐘 Laravel (PHP)
+* 🔗 REST APIs
+
+### 🗄️ Database
+
+* 🔥 Firebase
+* 🐬 MySQL
+
+### 🛠️ Tools
+
+* 🐙 Git & GitHub
+* 📦 Expo
+* 📬 Postman
+
+---
+
+## 🚀 Featured Project
+
+### 🚑 mySalvanos
+
+An emergency assistance app designed to help users act fast in critical situations.
+
+✨ **Key Features**
+
+* 📞 Emergency contact system
+* ⚡ Optimized startup performance
+* 📍 Upcoming: "Nearby" (pharmacies, gas stations, shops)
+
+---
+
+## 📈 Current Focus
+
+* ⚡ Performance optimization (faster load time)
+* 📍 Real-time location features
+* 🔐 Security & reliability improvements
+
+---
+
+## 🌐 Let's Connect
+
+* 📘 Facebook: https://www.facebook.com/rj.gonato.dhe
+
+---
+
+## 💬 Developer Mindset
+
+> "Build fast ⚡, keep it simple 🧩, and solve real problems 🎯"
+
+---
+
+⭐ *Check out my repositories and let's build something awesome!* 🚀
