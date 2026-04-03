@@ -29,7 +29,8 @@ Currently building:
 
 ### 🧠 Backend
 
-* 🐘 Laravel (PHP)
+* 🐘 PHP or Laravel
+* ⚡  Node.js
 * 🔗 REST APIs
 
 ### 🗄️ Database
